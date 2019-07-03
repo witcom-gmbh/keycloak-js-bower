@@ -1,19 +1,19 @@
 {
-  "name": "keycloak-js",
+  "name": "keycloak-authz",
   "version": "4.8.3",
-  "description": "Keycloak Adapter",
-  "main": "dist/keycloak.js",
-  "typings": "dist/keycloak.d.ts",
+  "description": "keycloak-authorization",
+  "main": "dist/keycloak-authz.js",
+  "typings": "dist/keycloak-authz.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/keycloak/keycloak-js-bower"
+    "url": "https://github.com/witcom-gmbh/keycloak-js-bower"
   },
   "author": "Keycloak",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/keycloak/keycloak-js-bower",
+  "homepage": "https://github.com/witcom-gmbh/keycloak-js-bower",
   "keywords": [
     "keycloak",
     "sso",
